@@ -1,0 +1,16 @@
+{
+  "ModelVersion": 2.0,
+  "Parameters":
+  [
+    {"model": "models/face_feature.bin"},
+    {"face_rect_x": 40},
+    {"face_rect_y": 85},
+    {"face_rect_w": 100},
+    {"face_rect_h": 110},
+	{"new_height": 256},
+	{"new_width": 256},
+    {"input_C": 3},
+    {"input_H": 224},
+    {"input_W": 224}
+  ]
+}
